@@ -435,3 +435,14 @@ body {
   background: var(--main-color);
   color: var(--white-color);
 }
+
+/* Existing code skipped for brevity */
+
+@media only screen and (min-width: 900px) {
+  .book {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+/* End of existing code skipped */
